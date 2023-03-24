@@ -3,4 +3,4 @@ My projects that I do in my spare time: [C#](https://github.com/miptleha?tab=rep
 [Here](https://github.com/users/miptleha/projects/1) you can see my plans.   
 You can send your ideas to miptleha@gmail.com.   
 
-My favorite languages are C# and JavaScript.
+I am currently working on a project: [react-burger](react-burger)
