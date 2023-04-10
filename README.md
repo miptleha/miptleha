@@ -8,4 +8,4 @@ My projects by category: [C#](https://github.com/miptleha?tab=repositories&q=&ty
 [List](https://miptleha.github.io) of my repositories published on github pages.   
 You can send your ideas to miptleha@gmail.com.   
 
-I am currently working on a project: [react-burger](https://github.com/miptleha/react-burger) finished
+I am currently working on a project: [react-burger](https://github.com/miptleha/react-burger) (finished)
