@@ -1,4 +1,4 @@
-#### Welcome! ![](https://komarev.com/ghpvc/?username=miptleha)
+#### Welcome! 
 
 My projects by category: [C#](https://github.com/miptleha?tab=repositories&q=&type=&language=c%23&sort=stargazers), [JavaScript](https://github.com/miptleha?tab=repositories&q=&type=&language=javascript&sort=stargazers), [TypeScript](https://github.com/miptleha?tab=repositories&q=&type=&language=typescript&sort=stargazers), [HTML](https://github.com/miptleha?tab=repositories&q=&type=&language=html&sort=stargazers).   
 [Here](https://github.com/users/miptleha/projects/1) you can see my plans.   
@@ -6,3 +6,5 @@ My projects by category: [C#](https://github.com/miptleha?tab=repositories&q=&ty
 You can send your ideas to miptleha@gmail.com.   
 
 I am currently working on a project: [react-burger](https://github.com/miptleha/react-burger) (finished)
+
+![](https://komarev.com/ghpvc/?username=miptleha)
