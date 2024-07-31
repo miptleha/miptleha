@@ -8,11 +8,6 @@
 <br/>
 <br/>
 
-<div>
-  <a href="https://github.com/johannchopin/stackoverflow-readme-profile">
-  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile-small/2764727?theme=default" alt="user:2764727's SO profile">
-</a>
-
 <a href="">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/stackoverflow.svg" />
 </a>
