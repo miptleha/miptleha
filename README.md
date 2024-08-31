@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://stackoverflow.com/users/2764727/alexey-obukhov">
-  <img align="left" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/stackoverflow.svg" />
+  <img align="left" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/stackoverflow.png" />
 </a>
   
 <a href="https://codesandbox.io/u/miptleha">
