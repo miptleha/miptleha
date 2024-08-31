@@ -8,8 +8,8 @@
 <br/>
 <br/>
 
-```diff
-+<a href="https://stackoverflow.com/users/2764727/alexey-obukhov">
+> [!NOTE] 
+> <a href="https://stackoverflow.com/users/2764727/alexey-obukhov">
   <img align="left" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/stackoverflow.svg" />
 </a>
   
