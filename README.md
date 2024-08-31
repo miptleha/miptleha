@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-<div style="background: white;display:inline-block">
+<div style="background-color: white;display:inline-block">
 <a href="https://stackoverflow.com/users/2764727/alexey-obukhov">
   <img align="left" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/stackoverflow.svg" />
 </a>
