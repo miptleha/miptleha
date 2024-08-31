@@ -8,10 +8,17 @@
 <br/>
 <br/>
 
+<table>
+  <thead>
+    <tr>
+      <td align="left">
 <a href="https://stackoverflow.com/users/2764727/alexey-obukhov">
   :point_up: 
   <img align="left" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/stackoverflow.svg" />
 </a>
+      </td>
+    </tr>
+  </thead>
   
 <a href="https://codesandbox.io/u/miptleha">
   <img align="left" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
