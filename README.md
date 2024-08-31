@@ -8,8 +8,8 @@
 <br/>
 <br/>
 
-> [!NOTE] 
-> <a href="https://stackoverflow.com/users/2764727/alexey-obukhov">
+<a href="https://stackoverflow.com/users/2764727/alexey-obukhov">
+  :point_up: 
   <img align="left" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/stackoverflow.svg" />
 </a>
   
