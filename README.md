@@ -8,21 +8,12 @@
 <br/>
 <br/>
 
-<a href="https://stackoverflow.com/users/2764727/alexey-obukhov">
-  <img align="left" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/stackoverflow.svg" />
-</a>
-
-<picture>
- <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
 
 
 <a href="https://stackoverflow.com/users/2764727/alexey-obukhov">
   <img align="left" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/stackoverflow.svg" />
 </a>
-      </td>
-    </tr>
-  </thead>
+
   
 <a href="https://codesandbox.io/u/miptleha">
   <img align="left" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
