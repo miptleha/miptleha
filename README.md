@@ -19,7 +19,6 @@
   <img align="left" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 
-<br/>
 
 ![](https://komarev.com/ghpvc/?username=miptleha&abbreviated=true)
 
