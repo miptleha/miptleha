@@ -1,14 +1,13 @@
-<!-- временно не работает
+
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miptleha&layout=compact&title_color=1F2328" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=miptleha&layout=compact&title_color=1F2328" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miptleha&hide=contribs&title_color=1F2328&rank_icon=percentile" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=miptleha&hide=contribs&title_color=1F2328&rank_icon=percentile" />
 </a>
 
 <br/>
 <br/>
--->
 
 
 <a href="https://stackoverflow.com/users/2764727/alexey-obukhov">
