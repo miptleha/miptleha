@@ -1,3 +1,4 @@
+<!-- временно не работает
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miptleha&layout=compact&title_color=1F2328" />
 </a>
@@ -7,7 +8,7 @@
 
 <br/>
 <br/>
-
+-->
 
 
 <a href="https://stackoverflow.com/users/2764727/alexey-obukhov">
