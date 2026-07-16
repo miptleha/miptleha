@@ -20,8 +20,6 @@
 </a>
 
 
-<br>
-
 ![](https://komarev.com/ghpvc/?username=miptleha&abbreviated=true)
 
 
