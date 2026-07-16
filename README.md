@@ -19,7 +19,9 @@
   <img align="left" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 
-- [**csharp-advanced-stopwatch**](https://github.com/miptleha/csharp-advanced-stopwatch) — High-performance hierarchical stopwatch for .NET with multi-threading support
+
+
+[**csharp-advanced-stopwatch**](https://github.com/miptleha/csharp-advanced-stopwatch) — High-performance hierarchical stopwatch for .NET with multi-threading support
 
 
 ![](https://komarev.com/ghpvc/?username=miptleha&abbreviated=true)
