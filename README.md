@@ -23,4 +23,4 @@
 ![](https://komarev.com/ghpvc/?username=miptleha&abbreviated=true)
 
 
-[**csharp-advanced-stopwatch**](https://github.com/miptleha/csharp-advanced-stopwatch) — High-performance hierarchical stopwatch for .NET with multi-threading support
+[**csharp-advanced-stopwatch**](https://github.com/miptleha/csharp-advanced-stopwatch) — A Lightweight Profiler & Benchmark Tool for .NET
