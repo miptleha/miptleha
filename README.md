@@ -23,4 +23,4 @@
 ![](https://komarev.com/ghpvc/?username=miptleha&abbreviated=true)
 
 
-[**csharp-advanced-stopwatch**](https://github.com/miptleha/csharp-advanced-stopwatch) — A Lightweight Profiler & Benchmark Tool for .NET
+[**cs-minesweeper**](https://github.com/miptleha/cs-minesweeper) — Classic Minesweeper built on different C# UI frameworks
